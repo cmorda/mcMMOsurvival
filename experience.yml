@@ -52,6 +52,7 @@ Experience_Formula:
         Alchemy: 1.0
     # XP earned by players with the permission mcmmo.perks.xp.customboost.<skillname> will get multiplied
     # with 1.25 by default, resulting in a 25% XP boost
+    # OPped players will get this as well!!
     Custom_XP_Perk:
         Boost: 1.25
 #
